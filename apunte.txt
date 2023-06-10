@@ -1,0 +1,46 @@
+<section class="layauot"> <!--Acá vamps a generar el layout con dos secciones, una de contacos y la otra 
+    principal-->
+
+        <menu class="menu">
+            <ul>
+            <li>
+            <a href="#"> Inicio </a>
+            </li>
+            <li>
+            <a href="#"> Pag 2 </a>
+            </li>
+            <li>
+            <a href="#"> Pag 3 </a>
+            </li>
+            </ul>
+         </menu>
+
+         <div class="principal">
+
+            <img id="imagen" src="./assets/img/hand.png" alt="Mano"  width="257,13" height="252">
+
+
+            <div class="texto">
+    <H1>
+        Comienza el Networking
+    </H1>
+    <p>Presiona el botón <strong> "Nuevo Chat"</strong> para comenzar a crear nuevas redes de contacto 
+    para tu empresa o emprendimiento</p>
+
+</div>
+            
+
+        </div>
+
+    </section>
+    
+
+    
+
+   
+
+
+
+</div>
+
+    

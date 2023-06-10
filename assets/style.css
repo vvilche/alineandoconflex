@@ -1,0 +1,182 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+   
+    }
+
+  .contenedorprincipal{
+    display: flex;
+    
+}
+     
+
+  .menu {
+    
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 287px;
+    background-color:white;
+    min-height: 100vh;
+    margin: 0;
+
+  }
+
+  .contacto-uno{
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    width: 286px;
+    height: 55px;
+    border: solid 1px rgb(126, 10, 10); 
+    
+ 
+  }
+
+  .text-estatus-uno{
+    margin: 0;
+    font-size: 10px;
+    color: black
+  }
+
+  .iconos{
+    display: flex;
+    justify-content: end;
+    list-style: none;
+  }
+
+
+  .contacto-uno img{
+    width: 37px;
+    height: 37px;
+    border-radius: 50%;
+    margin-left: 30px;
+    margin-top: 13px;
+    margin-bottom: 13.5px;
+    margin-right: 15px;
+   
+
+  }
+
+  .botonchat{
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    width: 286px;
+    height: 62px;
+    border: solid 1px rgb(126, 10, 10);
+    
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+   
+  }
+
+
+
+.new-chat {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+	height: 150px;
+}
+
+.boton-nuevo-chat {
+	background-color: #A491D2;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+	color: #FFFFFF;
+	cursor: pointer;
+	border: 0px;
+	width: 185px;
+	height: 46px;
+}
+
+.new-chat button:hover{
+	background-color: #CDC3E6;
+}
+
+.new-chat button:active{
+	background-color: #BEC1BB;
+}
+
+
+
+
+  .contacto {
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    width: 286px;
+    height: 77.7px;
+    border: solid 1px rgb(126, 10, 10);
+    
+
+    
+  }
+
+  .contacto img {
+    width: 51px;
+    height: 51px;
+    border-radius: 50%;
+    margin-left: 30px;
+    margin-top: 13px;
+    margin-bottom: 13.5px;
+    margin-right: 15px;
+   
+
+  }
+
+  .txt-contacto{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    font-size: 16px;
+    
+  }
+
+.text-nombre {
+  margin: 0;
+  margin-top: 21px;
+  
+  
+}
+
+.text-estatus{
+  margin: 0;
+  font-size: 14px;
+  color: rgb(126, 10, 10);
+}
+
+  .contenedorderecha {
+    display: flex;
+    flex-direction: column;
+    align-items:center ;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    background-color: #F8F8F8;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+  }
+
+  .texto-principal{
+    color:black;
+    font-size: 16px;
+    margin: 0;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+ 
+
+  
+  
